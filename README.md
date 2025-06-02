@@ -7,4 +7,4 @@ This is part of the [GPTX Project](https://gptexchange.info).
 
 ## License
 
-MIT or Custom License (TBD)
+BSL 1.1
